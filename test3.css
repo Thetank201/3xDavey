@@ -171,6 +171,15 @@
 
             translate: 0 0;
         }
+        .content1_1 h3{
+            font-size:30;
+     
+        .content1_1 h2{
+            font-size:25;
+        }
+        .content1_1 a{
+            font-size:15;
+        }
     }
 
     .content1_1 .im2 {
